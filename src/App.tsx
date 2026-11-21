@@ -825,7 +825,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="font-bold text-lg tracking-tight text-slate-900 leading-none">
-                GastroConecta
+                GastroNexo
               </h1>
               <span className="text-[11px] font-medium text-slate-500">
                 Intermediación e Inclusión
@@ -1239,7 +1239,7 @@ function LandingAndAuthView({ onLoginAs, stats }) {
             </div>
             <div>
               <span className="font-extrabold text-xl tracking-tight text-slate-900">
-                GastroConecta
+                GastroNexo
               </span>
               <p className="text-xs text-slate-500">
                 Intermediación Laboral Gastronómica e Inclusión Socioeconómica
